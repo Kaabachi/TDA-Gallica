@@ -2,4 +2,4 @@
 
 ### 1. Comment tracer une cartographie des disciplines en fonction des parcours des usagers?
 
-{% include PCATSNE.html max-width="200px" %}
+{% include PCATSNE.html max-width="60px" %}
