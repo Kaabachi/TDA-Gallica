@@ -1,3 +1,14 @@
+<style>
+img
+{
+    display:block;
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style>
+
 ## Analyse Topologique de données sur le site de Gallica: une ethnographie numérique
 
 ### 1. Comment tracer une cartographie des disciplines en fonction des parcours des usagers?
