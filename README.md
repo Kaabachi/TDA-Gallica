@@ -10,3 +10,4 @@ This repository contains the following files:
 - Final_Report_Kaabachi_261340.pdf: Final report submitted to LHST at the end of the semester project.
 - TDA.ipynb: Jupyter notebook that contains topological data analysis and cluster visualizations.
 - Analysis of Researchers’ Online Behavior.pdf: Final presentation of the semester project.
+- LICENSE.md: GNU GPL 3.0
