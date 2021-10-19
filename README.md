@@ -1,5 +1,5 @@
 # Semester project at LHST
-### Author: Bayrem Kaabachi 
+### Authors: Bayrem Kaabachi, Dr. Simon Dumas Primbault 
 ### Supervisor: Dr. Simon Dumas Primbault
 
 This repository contains the following files:
